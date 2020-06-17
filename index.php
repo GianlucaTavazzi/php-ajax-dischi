@@ -98,7 +98,7 @@ $dischi = [
         <div class="container">
             <?php foreach ($dischi as $array) { ?>
                 <div class="card">
-                    <img src="<?php echo $array['poster']; ?><" alt="">
+                    <img src="<?php echo $array['poster']; ?>" alt="">
                     <div class="section">
                         <p><?php  echo $array['title']; ?></p>
                     </div>
