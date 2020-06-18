@@ -100,16 +100,16 @@ $dischi = [
                 <div class="card">
                     <img src="<?php echo $array['poster']; ?>" alt="">
                     <div class="section">
-                        <p><?php  echo $array['title']; ?></p>
+                        <p>Titolo: <?php  echo $array['title']; ?></p>
                     </div>
                     <div class="section">
-                        <p><?php  echo $array['author']; ?></p>
+                        <p>Autore: <?php  echo $array['author']; ?></p>
                     </div>
                     <div class="section genre">
-                        <p><?php  echo $array['genre']; ?></p>
+                        <p>Genere: <?php  echo $array['genre']; ?></p>
                     </div>
                     <div class="section">
-                        <p><?php  echo $array['year']; ?></p>
+                        <p>Anno: <?php  echo $array['year']; ?></p>
                     </div>
                 </div>
                 <?php

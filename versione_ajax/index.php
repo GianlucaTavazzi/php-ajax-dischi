@@ -11,11 +11,7 @@
         <div class="header">
             <div class="dropdown">
                 <select class="dropdown-list" name="">
-                    <option value="">Generi</option>
-                    <option value="Rock">Rock</option>
-                    <option value="Pop">Pop</option>
-                    <option value="Jazz">Jazz</option>
-                    <option value="Metal">Metal</option>
+                    <option value="">-- Tutti gli artisti --</option>
                 </select>
             </div>
         </div>
